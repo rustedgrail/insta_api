@@ -1,0 +1,2 @@
+defmodule InstaApi do
+end
